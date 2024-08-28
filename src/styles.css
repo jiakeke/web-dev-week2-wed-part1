@@ -1,0 +1,32 @@
+.id-card {
+    border: solid 1px black;
+    max-width: 800px;
+    min-height: 138px;
+    margin: 5px auto;
+}
+
+.id-card img {
+    float: left;
+    margin: 5px;
+}
+
+.id-card .props {
+    float: left;
+    height: 135px;
+}
+
+.id-card .props p {
+    margin: 2px 0 2px 0;
+}
+.id-card .props strong {
+    font-weight: bold;
+}
+
+.greeting {
+    border: solid 1px black;
+    max-width: 800px;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+
